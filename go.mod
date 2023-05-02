@@ -1,3 +1,3 @@
-module github.com/serkazjesest/utils/v2
+module github.com/serkazjesest/utils
 
 go 1.20
